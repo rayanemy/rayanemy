@@ -37,6 +37,7 @@ Outside of coursework I'm usually tinkering with open-source ML repos, taking ap
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/Chroma-FF6B6B?style=flat&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 
 **Infrastructure & Cloud**
 
