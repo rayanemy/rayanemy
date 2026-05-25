@@ -1,13 +1,10 @@
 # Hi, I'm Rayane 👋
 
-Engineering student at [INSA Lyon](https://www.insa-lyon.fr/en/) (MSc, Year 2/5); building things at the intersection of machine learning, computer vision, and distributed systems. Self-taught programming
-
-Previously built an AI-powered fraud detection system at [Attijariwafa Bank](https://www.attijariwafabank.com/) (3rd largest in Africa) and placed Top 5 at the IBM France AI-thon.
+Engineering student at [INSA Lyon](https://www.insa-lyon.fr/en/) (MSc, Year 2/5); building things at the intersection of machine learning, computer vision, and distributed systems. Previously built an AI-powered fraud detection system at Attijariwafa Bank (3rd largest in Africa) and placed Top 5 at the IBM France AI-thon.
 
 Outside of coursework I'm usually tinkering with open-source ML repos, taking apart small hardware projects, or reading whatever new paper just dropped on arXiv. I have a soft spot for anything that bridges ML and the physical world : robots, sensors, embedded perception.
 
 📍 Lyon, France &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/rayane-youbi)
-
 
 ---
 
@@ -66,11 +63,6 @@ Outside of coursework I'm usually tinkering with open-source ML repos, taking ap
 ---
 
 ### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayanemy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanemy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rayanemy&theme=tokyonight&hide_border=true" height="165" />
