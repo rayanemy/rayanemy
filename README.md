@@ -2,7 +2,7 @@
 
 Engineering student at [INSA Lyon](https://www.insa-lyon.fr/en/) (MSc, Year 2/5); building things at the intersection of machine learning, computer vision, and distributed systems. Previously built an AI-powered fraud detection system at Attijariwafa Bank (3rd largest in Africa) and placed Top 5 at the IBM France AI-thon.
 
-Outside of coursework I'm usually tinkering with open-source ML repos, taking apart small hardware projects, or reading whatever new paper just dropped on arXiv. I have a soft spot for anything that bridges ML and the physical world : robots, sensors, embedded perception.
+Outside of coursework I'm usually tinkering with open-source ML repos, taking apart small hardware projects, or reading whatever new paper just dropped on arXiv. I have a soft spot for anything that bridges ML and the physical world : robots, sensors, embedded perception...
 
 📍 Lyon, France &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/rayane-youbi)
 
@@ -28,7 +28,6 @@ Outside of coursework I'm usually tinkering with open-source ML repos, taking ap
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 **LLMs, Agents & MLOps**
