@@ -68,10 +68,10 @@ Outside of coursework I'm usually tinkering with open-source ML repos, taking ap
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=example&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=example&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayanemy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanemy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=example&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rayanemy&theme=tokyonight&hide_border=true" height="165" />
 </p>
