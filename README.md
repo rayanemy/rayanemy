@@ -7,8 +7,15 @@ Outside of coursework I'm usually tinkering with open-source ML repos, taking ap
 📍 Lyon, France &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/rayane-youbi)
 
 ---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayanemy&theme=tokyonight" />
+  <!--
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rayanemy&theme=tokyonight&hide_border=true" height="165" />
+  -->
+</p>
 
-### 
+---
+###
 
 **ML & AI**
 
@@ -21,7 +28,6 @@ Outside of coursework I'm usually tinkering with open-source ML repos, taking ap
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 
@@ -40,7 +46,7 @@ Outside of coursework I'm usually tinkering with open-source ML repos, taking ap
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat&logo=ibmcloud&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
@@ -62,8 +68,3 @@ Outside of coursework I'm usually tinkering with open-source ML repos, taking ap
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rayanemy&theme=tokyonight&hide_border=true" height="165" />
-</p>
